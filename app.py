@@ -15,7 +15,7 @@ st.title('Property Price Predictor')
 
 st.write("""
 ### Welcome to the Property Price Predictor!
-This app uses a Random Forest model to predict property prices based on various features.
+This app uses a XGBoost model to predict property prices based on various features.
 Please input the details of the property below.
 """)
 
